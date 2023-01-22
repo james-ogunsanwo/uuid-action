@@ -1,6 +1,7 @@
 # UUID GitHub Action
 
 GitHub Action to create generate [UUIDs](https://en.wikipedia.org/wiki/Universally_unique_identifier).
+fork from : https://github.com/filipstefansson/uuid-action
 
 Use the `name` argument to be able to generate the same UUID over and over using the same input. If you don't pass `name`, a random UUID will be returned.
 
