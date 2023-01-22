@@ -1,4 +1,4 @@
-name: Generate Helm README docs
+name: Generate uuid
 on:
   push:
 permissions:
