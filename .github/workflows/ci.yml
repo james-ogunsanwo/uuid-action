@@ -6,7 +6,7 @@ permissions:
   pull-requests: write  
 
 jobs:
-  docs:
+  ci:
     permissions:
       contents: write
       pull-requests: write
