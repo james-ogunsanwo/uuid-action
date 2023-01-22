@@ -1,4 +1,4 @@
-name: 'UUID Action'
+name: 'UUID-Action'
 description: 'Generate UUIDs.'
 inputs:
   name:
